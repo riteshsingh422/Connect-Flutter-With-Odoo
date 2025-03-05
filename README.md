@@ -1,4 +1,4 @@
-# Connect Flutter with Odoo RPC
+# Connect Flutter with Odoo 
 
 This guide will help you integrate **Flutter** with **Odoo** using the `odoo_rpc` package and HTTP requests. We will set up authentication with Odoo and manage login using **GetX**.
 
